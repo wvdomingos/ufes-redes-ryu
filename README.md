@@ -156,7 +156,7 @@ $ iperf -c 10.0.0.1 -p 5002 -u -b 1M
 ```
 
 **Vídeo do Exemplo 1**
-[Exemplo 2](https://www.youtube.com/watch?v=TZFMCm6ZvdM) 
+[![Exemplo 1](img\Ryu-Exemplo1.gif)](https://www.youtube.com/watch?v=TZFMCm6ZvdM)
 
 <div id='exemplo-2'/> 
 
@@ -314,7 +314,7 @@ $ iperf -c 172.16.20.10 -p 5003 -u -b 600K
 ```
 
 **Vídeo do Exemplo 2**
-[Exemplo 2](https://www.youtube.com/watch?v=9KuoKrGXZUY) 
+[![Exemplo 2](img\Ryu-Exemplo2.gif)](https://www.youtube.com/watch?v=9KuoKrGXZUY)
 
 <div id='exemplo-3'/> 
 
